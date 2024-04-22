@@ -1,0 +1,1 @@
+print("Proszę 5 dobra es")
